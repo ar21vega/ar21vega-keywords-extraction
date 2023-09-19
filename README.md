@@ -23,7 +23,7 @@ My motivation and interest in the keywords extraction methods results from my re
 
 I had written the code for keywords extraction based on SpaCy library, designed by Matthew Honnibal, and another one, based on KeyBERT, authored by Maarten Grootendorst. 
 I used these two approaches due to their relative novelty and in order to evaluate their respective efficiency, in terms of recall, precision and processing time. Though, in the present case, both models return almost identical results, a used data set is too small to make some generalizations. 
-The demo of both applications is shown below.
+The demo of both applications is shown below. (in progress)
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
