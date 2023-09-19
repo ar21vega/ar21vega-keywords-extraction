@@ -19,7 +19,7 @@ In practical terms, a handy tool for the batch processing of an articles' set, s
 
 My motivation and interest in the keywords extraction methods results from my regular work with articles’ abstracting and indexing. Keywords are an important component in research and news articles, providing a concise representation of the article's content and categorizing it into the relevant subject. They play a crucial role in locating the article, enhancing search engine optimization, and locating it in information retrieval systems and bibliographic databases. It’s also impossible overrate its influence on the raise of indexing productivity in context of the growing volume of text documents to process. 
 
-## How is it used?
+## How is it used?  [in progress]
 
 I had written the code for keywords extraction based on SpaCy library, designed by Matthew Honnibal, and another one, based on KeyBERT, authored by Maarten Grootendorst. 
 I used these two approaches due to their relative novelty and in order to evaluate their respective efficiency, in terms of recall, precision and processing time. Though, in the present case, both models return almost identical results, a used data set is too small to make some generalizations. 
